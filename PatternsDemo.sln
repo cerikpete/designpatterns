@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckApp", "DuckApp\DuckApp.csproj", "{7D60EEAE-3780-4CCD-98F4-F5F0228197C6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckLibrary", "DuckLibrary\DuckLibrary.csproj", "{D786B662-F9D4-438A-8F13-2638DC83E25C}"
