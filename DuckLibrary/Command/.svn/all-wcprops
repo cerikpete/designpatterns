@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/DuckLibrary/Command
+END
+IFoodProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/DuckLibrary/Command/IFoodProvider.cs
+END
+MoneyChanger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20/trunk/DuckLibrary/Command/MoneyChanger.cs
+END
+Corn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/DuckLibrary/Command/Corn.cs
+END
+DuckFeeder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/20/trunk/DuckLibrary/Command/DuckFeeder.cs
+END
+FoodDispenser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/DuckLibrary/Command/FoodDispenser.cs
+END
+MoneyProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20/trunk/DuckLibrary/Command/MoneyProcessor.cs
+END
+ICommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/DuckLibrary/Command/ICommand.cs
+END

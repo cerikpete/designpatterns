@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 49
+_ReSharper.PatternsDemo
+*.resharper
+*.user
+*.suo
+
+END

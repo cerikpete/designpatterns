@@ -1,0 +1,5 @@
+C:\development\PatternsDemo\Geese\bin\Debug\Geese.dll
+C:\development\PatternsDemo\Geese\bin\Debug\Geese.pdb
+C:\development\PatternsDemo\Geese\obj\Debug\ResolveAssemblyReference.cache
+C:\development\PatternsDemo\Geese\obj\Debug\Geese.dll
+C:\development\PatternsDemo\Geese\obj\Debug\Geese.pdb

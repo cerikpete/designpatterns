@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/13/trunk/DuckLibrary/Factories
+END
+CountableDuckFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13/trunk/DuckLibrary/Factories/CountableDuckFactory.cs
+END
+DuckFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/DuckLibrary/Factories/DuckFactory.cs
+END
+AbstractDuckFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/DuckLibrary/Factories/AbstractDuckFactory.cs
+END

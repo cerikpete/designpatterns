@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/46/trunk/DuckLibrary/Logging
+END
+GenericLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/DuckLibrary/Logging/GenericLogger.cs
+END
+Logger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/42/trunk/DuckLibrary/Logging/Logger.cs
+END
+ConsoleLogWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/42/trunk/DuckLibrary/Logging/ConsoleLogWriter.cs
+END
+LoggingExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/DuckLibrary/Logging/LoggingExtensions.cs
+END
+ILogWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/trunk/DuckLibrary/Logging/ILogWriter.cs
+END
+Log4NetWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/42/trunk/DuckLibrary/Logging/Log4NetWriter.cs
+END

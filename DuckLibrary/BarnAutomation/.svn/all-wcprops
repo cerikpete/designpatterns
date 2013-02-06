@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation
+END
+OpenTheWindowsCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/OpenTheWindowsCommand.cs
+END
+BarnManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/24/trunk/DuckLibrary/BarnAutomation/BarnManager.cs
+END
+FeedTheDucksCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/FeedTheDucksCommand.cs
+END
+IBarnAutomatorFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/DuckLibrary/BarnAutomation/IBarnAutomatorFactory.cs
+END
+CloseWindowsCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/CloseWindowsCommand.cs
+END
+MuckTheStallsCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/MuckTheStallsCommand.cs
+END
+LightsOffCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/LightsOffCommand.cs
+END
+BarnAutomatorFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/DuckLibrary/BarnAutomation/BarnAutomatorFactory.cs
+END
+LightsOnCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/DuckLibrary/BarnAutomation/LightsOnCommand.cs
+END
+FeedThePigsCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/FeedThePigsCommand.cs
+END
+FeedTheHorsesCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/43/trunk/DuckLibrary/BarnAutomation/FeedTheHorsesCommand.cs
+END
+ICommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/DuckLibrary/BarnAutomation/ICommand.cs
+END
+IBarnAutomator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/DuckLibrary/BarnAutomation/IBarnAutomator.cs
+END
+BarnAutomator3000Deluxe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/DuckLibrary/BarnAutomation/BarnAutomator3000Deluxe.cs
+END

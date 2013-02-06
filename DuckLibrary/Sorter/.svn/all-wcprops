@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/41/trunk/DuckLibrary/Sorter
+END
+IDuckSorter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/trunk/DuckLibrary/Sorter/IDuckSorter.cs
+END
+NameSorter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/trunk/DuckLibrary/Sorter/NameSorter.cs
+END
+TypeSorter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/30/trunk/DuckLibrary/Sorter/TypeSorter.cs
+END
+GenericDuckSorter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/41/trunk/DuckLibrary/Sorter/GenericDuckSorter.cs
+END
+IGenericSorter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/41/trunk/DuckLibrary/Sorter/IGenericSorter.cs
+END

@@ -1,0 +1,129 @@
+10
+
+dir
+57
+https://design-patterns-demo.googlecode.com/svn/trunk/DuckLibrary
+https://design-patterns-demo.googlecode.com/svn
+
+
+
+2009-05-13T16:37:24.471444Z
+51
+cerikpete
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4fd7ad3c-01d1-11de-8c4e-4bbb75a408b7
+
+Factories
+dir
+
+CustomTextWriter.cs
+file
+
+
+
+
+2013-02-06T01:02:56.133804Z
+67a6d08e9d257b1d1fa3cb1f8b4e9103
+2009-04-06T17:35:31.781825Z
+24
+cerikpete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+597
+
+BarnAutomation
+dir
+
+OtherBirds
+dir
+
+Decorators
+dir
+
+Logging
+dir
+
+Ducks
+dir
+
+Aggregates
+dir
+
+Observers
+dir
+
+DuckLibrary.csproj
+file
+
+
+
+
+2013-02-06T01:02:56.135804Z
+26e7f06721e4893bb20dda0be4d9dfd8
+2009-05-11T00:05:38.735618Z
+46
+cerikpete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5628
+
+Properties
+dir
+
+Sorter
+dir
+
+Command
+dir
+

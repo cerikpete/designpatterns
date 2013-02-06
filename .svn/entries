@@ -1,0 +1,83 @@
+10
+
+dir
+57
+https://design-patterns-demo.googlecode.com/svn/trunk
+https://design-patterns-demo.googlecode.com/svn
+
+
+
+2009-05-13T17:37:52.784597Z
+53
+cerikpete
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4fd7ad3c-01d1-11de-8c4e-4bbb75a408b7
+
+tools
+dir
+
+PatternsDemo.sln
+file
+
+
+
+
+2013-02-06T01:02:56.143805Z
+599c337087e3a21f5d1dd74686110892
+2009-04-05T21:43:19.355502Z
+23
+brian@pigeonmoon.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1891
+
+lib
+dir
+
+DuckApp
+dir
+
+Geese
+dir
+
+docs
+dir
+
+DuckApp.Tests
+dir
+
+DuckLibrary
+dir
+

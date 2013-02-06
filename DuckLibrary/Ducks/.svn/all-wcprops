@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/41/trunk/DuckLibrary/Ducks
+END
+MandarinDuck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/29/trunk/DuckLibrary/Ducks/MandarinDuck.cs
+END
+IQuackable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/41/trunk/DuckLibrary/Ducks/IQuackable.cs
+END
+IIdentity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/41/trunk/DuckLibrary/Ducks/IIdentity.cs
+END
+MallardDuck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29/trunk/DuckLibrary/Ducks/MallardDuck.cs
+END
+Duck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/trunk/DuckLibrary/Ducks/Duck.cs
+END
+RubberDuck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/29/trunk/DuckLibrary/Ducks/RubberDuck.cs
+END
+DuckDecoy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/29/trunk/DuckLibrary/Ducks/DuckDecoy.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/tools/SpecUnit
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tools/SpecUnit/nunit.framework.dll
+END
+SpecUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tools/SpecUnit/SpecUnit.dll
+END
+SpecUnit.Report.exe
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tools/SpecUnit/SpecUnit.Report.exe
+END
+SpecUnit.Specs.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tools/SpecUnit/SpecUnit.Specs.html
+END
